@@ -73,3 +73,4 @@ Requests & IO: لجلب الصورة المطلوبة من الإنترنت بر
 
 طباعة تقرير مفصل يوضح أن خط إنتاج الذكاء الاصطناعي قام بتحليل الإطار بنجاح وتوثيق كل عنصر تم رصده.
 GitHub (https://github.com/SDAIAAcademy)
+SDAIA-AI-SceneSummary Project
